@@ -1,0 +1,11 @@
+:root{
+  --bg: #f6f7fb;
+  --card: #ffffff;
+  --muted: #6c757d;
+  --accent: #0d6efd;
+}
+
+body { background: var(--bg); font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.card { border: 0; border-radius: 12px; }
+.table thead th { vertical-align: middle; }
+#calendar-root { min-height: 540px; }
