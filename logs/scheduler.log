@@ -1,0 +1,904 @@
+2025-12-04 19:17:12,978 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-12-04 19:17:12,980 - INFO - Scheduler iniciarado correctamente.
+2025-12-04 19:17:13,011 - INFO - Added job "tarea_scraper" to job store "default"
+2025-12-04 19:17:13,011 - INFO - Scheduler started
+2025-12-04 19:17:42,989 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:17:42 CST)" (scheduled at 2025-12-04 19:17:42.978353-06:00)
+2025-12-04 19:17:42,990 - INFO - Iniciando ejecución automática...
+2025-12-04 19:17:57,060 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:18:02,952 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:62128
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa60d23
+	0xa60d64
+	0x84e6dd
+	0x88a958
+	0x889992
+	0x87fbe5
+	0x87fa16
+	0x8c7826
+	0x8c7047
+	0x8bb2e6
+	0x88d321
+	0x88e1d4
+	0xcb4d64
+	0xcb031b
+	0xcccbfa
+	0xa7ac28
+	0xa82c2d
+	0xa69028
+	0xa691e9
+	0xa53578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:18:04,426 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:18:04,608 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:18:04,608 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:18:12 CST)" executed successfully
+2025-12-04 19:18:12,979 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:18:42 CST)" (scheduled at 2025-12-04 19:18:12.978353-06:00)
+2025-12-04 19:18:12,979 - INFO - Iniciando ejecución automática...
+2025-12-04 19:18:13,208 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:18:14,130 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:18:14,405 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:18:14,405 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:18:42 CST)" executed successfully
+2025-12-04 19:18:42,988 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:19:12 CST)" (scheduled at 2025-12-04 19:18:42.978353-06:00)
+2025-12-04 19:18:42,989 - INFO - Iniciando ejecución automática...
+2025-12-04 19:18:46,043 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:18:52,625 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:64092
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x780d23
+	0x780d64
+	0x56e6dd
+	0x5aa958
+	0x5a9992
+	0x59fbe5
+	0x59fa16
+	0x5e7826
+	0x5e7047
+	0x5db2e6
+	0x5ad321
+	0x5ae1d4
+	0x9d4d64
+	0x9d031b
+	0x9ecbfa
+	0x79ac28
+	0x7a2c2d
+	0x789028
+	0x7891e9
+	0x773578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:18:53,669 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:18:53,874 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:18:53,875 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:19:12 CST)" executed successfully
+2025-12-04 19:19:12,989 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:19:42 CST)" (scheduled at 2025-12-04 19:19:12.978353-06:00)
+2025-12-04 19:19:12,989 - INFO - Iniciando ejecución automática...
+2025-12-04 19:19:16,635 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:19:22,865 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:63777
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d0d23
+	0x4d0d64
+	0x2be6dd
+	0x2fa958
+	0x2f9992
+	0x2efbe5
+	0x2efa16
+	0x337826
+	0x337047
+	0x32b2e6
+	0x2fd321
+	0x2fe1d4
+	0x724d64
+	0x72031b
+	0x73cbfa
+	0x4eac28
+	0x4f2c2d
+	0x4d9028
+	0x4d91e9
+	0x4c3578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:19:23,950 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:19:24,150 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:19:24,151 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:19:42 CST)" executed successfully
+2025-12-04 19:19:42,994 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:20:12 CST)" (scheduled at 2025-12-04 19:19:42.978353-06:00)
+2025-12-04 19:19:42,994 - INFO - Iniciando ejecución automática...
+2025-12-04 19:19:43,197 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:19:44,204 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:19:44,364 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:19:44,365 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:20:12 CST)" executed successfully
+2025-12-04 19:20:12,987 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:20:42 CST)" (scheduled at 2025-12-04 19:20:12.978353-06:00)
+2025-12-04 19:20:12,987 - INFO - Iniciando ejecución automática...
+2025-12-04 19:20:18,061 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:20:24,469 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:49561
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1250d23
+	0x1250d64
+	0x103e6dd
+	0x107a958
+	0x1079992
+	0x106fbe5
+	0x106fa16
+	0x10b7826
+	0x10b7047
+	0x10ab2e6
+	0x107d321
+	0x107e1d4
+	0x14a4d64
+	0x14a031b
+	0x14bcbfa
+	0x126ac28
+	0x1272c2d
+	0x1259028
+	0x12591e9
+	0x1243578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:20:25,610 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:20:25,778 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:20:25,778 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:20:42 CST)" executed successfully
+2025-12-04 19:20:36,975 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-12-04 19:20:36,976 - INFO - Scheduler iniciarado correctamente.
+2025-12-04 19:20:36,979 - INFO - Added job "tarea_scraper" to job store "default"
+2025-12-04 19:20:36,979 - INFO - Scheduler started
+2025-12-04 19:21:06,998 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:21:06 CST)" (scheduled at 2025-12-04 19:21:06.975602-06:00)
+2025-12-04 19:21:06,999 - INFO - Iniciando ejecución automática...
+2025-12-04 19:21:11,296 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:21:16,601 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:58947
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa80d23
+	0xa80d64
+	0x86e6dd
+	0x8aa958
+	0x8a9992
+	0x89fbe5
+	0x89fa16
+	0x8e7826
+	0x8e7047
+	0x8db2e6
+	0x8ad321
+	0x8ae1d4
+	0xcd4d64
+	0xcd031b
+	0xcecbfa
+	0xa9ac28
+	0xaa2c2d
+	0xa89028
+	0xa891e9
+	0xa73578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:21:18,058 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:21:18,330 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:21:18,330 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:21:36 CST)" executed successfully
+2025-12-04 19:21:36,980 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:22:06 CST)" (scheduled at 2025-12-04 19:21:36.975602-06:00)
+2025-12-04 19:21:36,980 - INFO - Iniciando ejecución automática...
+2025-12-04 19:21:39,859 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:21:46,400 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:50945
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x370d23
+	0x370d64
+	0x15e6dd
+	0x19a958
+	0x199992
+	0x18fbe5
+	0x18fa16
+	0x1d7826
+	0x1d7047
+	0x1cb2e6
+	0x19d321
+	0x19e1d4
+	0x5c4d64
+	0x5c031b
+	0x5dcbfa
+	0x38ac28
+	0x392c2d
+	0x379028
+	0x3791e9
+	0x363578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+	0
+
+2025-12-04 19:21:47,689 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:21:47,843 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:21:47,844 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:22:06 CST)" executed successfully
+2025-12-04 19:22:06,985 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:22:36 CST)" (scheduled at 2025-12-04 19:22:06.975602-06:00)
+2025-12-04 19:22:06,985 - INFO - Iniciando ejecución automática...
+2025-12-04 19:22:09,782 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:22:16,558 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:59591
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xdc0d23
+	0xdc0d64
+	0xbae6dd
+	0xbea958
+	0xbe9992
+	0xbdfbe5
+	0xbdfa16
+	0xc27826
+	0xc27047
+	0xc1b2e6
+	0xbed321
+	0xbee1d4
+	0x1014d64
+	0x101031b
+	0x102cbfa
+	0xddac28
+	0xde2c2d
+	0xdc9028
+	0xdc91e9
+	0xdb3578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:22:17,810 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:22:17,976 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:22:17,977 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:22:36 CST)" executed successfully
+2025-12-04 19:22:36,988 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:23:06 CST)" (scheduled at 2025-12-04 19:22:36.975602-06:00)
+2025-12-04 19:22:36,988 - INFO - Iniciando ejecución automática...
+2025-12-04 19:22:37,191 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:22:38,465 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:22:38,651 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:22:38,651 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:23:06 CST)" executed successfully
+2025-12-04 19:23:06,991 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:23:36 CST)" (scheduled at 2025-12-04 19:23:06.975602-06:00)
+2025-12-04 19:23:06,991 - INFO - Iniciando ejecución automática...
+2025-12-04 19:23:09,750 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:23:16,066 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:65000
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x890d23
+	0x890d64
+	0x67e6dd
+	0x6ba958
+	0x6b9992
+	0x6afbe5
+	0x6afa16
+	0x6f7826
+	0x6f7047
+	0x6eb2e6
+	0x6bd321
+	0x6be1d4
+	0xae4d64
+	0xae031b
+	0xafcbfa
+	0x8aac28
+	0x8b2c2d
+	0x899028
+	0x8991e9
+	0x883578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:23:17,570 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:23:17,755 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:23:17,756 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:23:36 CST)" executed successfully
+2025-12-04 19:23:36,977 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:24:06 CST)" (scheduled at 2025-12-04 19:23:36.975602-06:00)
+2025-12-04 19:23:36,977 - INFO - Iniciando ejecución automática...
+2025-12-04 19:23:39,358 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:23:44,663 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:59239
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x9e0d23
+	0x9e0d64
+	0x7ce6dd
+	0x80a958
+	0x809992
+	0x7ffbe5
+	0x7ffa16
+	0x847826
+	0x847047
+	0x83b2e6
+	0x80d321
+	0x80e1d4
+	0xc34d64
+	0xc3031b
+	0xc4cbfa
+	0x9fac28
+	0xa02c2d
+	0x9e9028
+	0x9e91e9
+	0x9d3578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:23:45,921 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:23:46,095 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:23:46,096 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:24:06 CST)" executed successfully
+2025-12-04 19:24:06,991 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:24:36 CST)" (scheduled at 2025-12-04 19:24:06.975602-06:00)
+2025-12-04 19:24:06,991 - INFO - Iniciando ejecución automática...
+2025-12-04 19:24:07,180 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:24:08,554 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:24:08,727 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:24:08,727 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:24:36 CST)" executed successfully
+2025-12-04 19:24:36,982 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:25:06 CST)" (scheduled at 2025-12-04 19:24:36.975602-06:00)
+2025-12-04 19:24:36,982 - INFO - Iniciando ejecución automática...
+2025-12-04 19:24:39,478 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:24:46,051 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:56751
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd80d23
+	0xd80d64
+	0xb6e6dd
+	0xbaa958
+	0xba9992
+	0xb9fbe5
+	0xb9fa16
+	0xbe7826
+	0xbe7047
+	0xbdb2e6
+	0xbad321
+	0xbae1d4
+	0xfd4d64
+	0xfd031b
+	0xfecbfa
+	0xd9ac28
+	0xda2c2d
+	0xd89028
+	0xd891e9
+	0xd73578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:24:47,393 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:24:47,579 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:24:47,580 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:25:06 CST)" executed successfully
+2025-12-04 19:25:06,990 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:25:36 CST)" (scheduled at 2025-12-04 19:25:06.975602-06:00)
+2025-12-04 19:25:06,990 - INFO - Iniciando ejecución automática...
+2025-12-04 19:25:07,192 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:25:08,466 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:25:08,608 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:25:08,608 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:25:36 CST)" executed successfully
+2025-12-04 19:25:36,984 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:26:06 CST)" (scheduled at 2025-12-04 19:25:36.975602-06:00)
+2025-12-04 19:25:36,984 - INFO - Iniciando ejecución automática...
+2025-12-04 19:25:37,186 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:25:38,524 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:25:38,676 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:25:38,677 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:26:06 CST)" executed successfully
+2025-12-04 19:26:06,991 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:26:36 CST)" (scheduled at 2025-12-04 19:26:06.975602-06:00)
+2025-12-04 19:26:06,991 - INFO - Iniciando ejecución automática...
+2025-12-04 19:26:07,199 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:26:08,581 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:26:08,754 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:26:08,754 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:26:36 CST)" executed successfully
+2025-12-04 19:26:36,984 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:27:06 CST)" (scheduled at 2025-12-04 19:26:36.975602-06:00)
+2025-12-04 19:26:36,984 - INFO - Iniciando ejecución automática...
+2025-12-04 19:26:39,944 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:26:46,327 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:57773
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x620d23
+	0x620d64
+	0x40e6dd
+	0x44a958
+	0x449992
+	0x43fbe5
+	0x43fa16
+	0x487826
+	0x487047
+	0x47b2e6
+	0x44d321
+	0x44e1d4
+	0x874d64
+	0x87031b
+	0x88cbfa
+	0x63ac28
+	0x642c2d
+	0x629028
+	0x6291e9
+	0x613578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:26:47,609 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:26:47,865 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:26:47,865 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:27:06 CST)" executed successfully
+2025-12-04 19:27:06,979 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:27:36 CST)" (scheduled at 2025-12-04 19:27:06.975602-06:00)
+2025-12-04 19:27:06,979 - INFO - Iniciando ejecución automática...
+2025-12-04 19:27:09,863 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:27:15,830 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:52479
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x720d23
+	0x720d64
+	0x50e6dd
+	0x54a958
+	0x549992
+	0x53fbe5
+	0x53fa16
+	0x587826
+	0x587047
+	0x57b2e6
+	0x54d321
+	0x54e1d4
+	0x974d64
+	0x97031b
+	0x98cbfa
+	0x73ac28
+	0x742c2d
+	0x729028
+	0x7291e9
+	0x713578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:27:17,146 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:27:17,416 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:27:17,416 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:27:36 CST)" executed successfully
+2025-12-04 19:27:36,980 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:28:06 CST)" (scheduled at 2025-12-04 19:27:36.975602-06:00)
+2025-12-04 19:27:36,980 - INFO - Iniciando ejecución automática...
+2025-12-04 19:27:40,176 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:27:46,568 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:61522
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1180d23
+	0x1180d64
+	0xf6e6dd
+	0xfaa958
+	0xfa9992
+	0xf9fbe5
+	0xf9fa16
+	0xfe7826
+	0xfe7047
+	0xfdb2e6
+	0xfad321
+	0xfae1d4
+	0x13d4d64
+	0x13d031b
+	0x13ecbfa
+	0x119ac28
+	0x11a2c2d
+	0x1189028
+	0x11891e9
+	0x1173578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:27:47,903 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:27:48,201 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:27:48,202 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:28:06 CST)" executed successfully
+2025-12-04 19:28:06,982 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:28:36 CST)" (scheduled at 2025-12-04 19:28:06.975602-06:00)
+2025-12-04 19:28:06,982 - INFO - Iniciando ejecución automática...
+2025-12-04 19:28:10,082 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:28:16,461 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:64276
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x760d23
+	0x760d64
+	0x54e6dd
+	0x58a958
+	0x589992
+	0x57fbe5
+	0x57fa16
+	0x5c7826
+	0x5c7047
+	0x5bb2e6
+	0x58d321
+	0x58e1d4
+	0x9b4d64
+	0x9b031b
+	0x9ccbfa
+	0x77ac28
+	0x782c2d
+	0x769028
+	0x7691e9
+	0x753578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:28:17,855 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:28:18,015 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:28:18,016 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:28:36 CST)" executed successfully
+2025-12-04 19:28:36,989 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:29:06 CST)" (scheduled at 2025-12-04 19:28:36.975602-06:00)
+2025-12-04 19:28:36,989 - INFO - Iniciando ejecución automática...
+2025-12-04 19:28:37,181 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:28:38,459 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:28:38,735 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:28:38,736 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:29:06 CST)" executed successfully
+2025-12-04 19:29:06,981 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:29:36 CST)" (scheduled at 2025-12-04 19:29:06.975602-06:00)
+2025-12-04 19:29:06,981 - INFO - Iniciando ejecución automática...
+2025-12-04 19:29:07,175 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:29:08,455 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:29:08,704 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:29:08,704 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:29:36 CST)" executed successfully
+2025-12-04 19:29:36,981 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:30:06 CST)" (scheduled at 2025-12-04 19:29:36.975602-06:00)
+2025-12-04 19:29:36,982 - INFO - Iniciando ejecución automática...
+2025-12-04 19:29:43,361 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:29:50,434 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:60187
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf70d23
+	0xf70d64
+	0xd5e6dd
+	0xd9a958
+	0xd99992
+	0xd8fbe5
+	0xd8fa16
+	0xdd7826
+	0xdd7047
+	0xdcb2e6
+	0xd9d321
+	0xd9e1d4
+	0x11c4d64
+	0x11c031b
+	0x11dcbfa
+	0xf8ac28
+	0xf92c2d
+	0xf79028
+	0xf791e9
+	0xf63578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:29:51,809 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:29:51,951 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:29:51,951 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:30:06 CST)" executed successfully
+2025-12-04 19:30:06,982 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:30:36 CST)" (scheduled at 2025-12-04 19:30:06.975602-06:00)
+2025-12-04 19:30:06,983 - INFO - Iniciando ejecución automática...
+2025-12-04 19:30:07,177 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:30:08,595 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:30:08,753 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:30:08,753 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:30:36 CST)" executed successfully
+2025-12-04 19:30:36,989 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:31:06 CST)" (scheduled at 2025-12-04 19:30:36.975602-06:00)
+2025-12-04 19:30:36,989 - INFO - Iniciando ejecución automática...
+2025-12-04 19:30:42,245 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:30:48,851 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:58090
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe50d23
+	0xe50d64
+	0xc3e6dd
+	0xc7a958
+	0xc79992
+	0xc6fbe5
+	0xc6fa16
+	0xcb7826
+	0xcb7047
+	0xcab2e6
+	0xc7d321
+	0xc7e1d4
+	0x10a4d64
+	0x10a031b
+	0x10bcbfa
+	0xe6ac28
+	0xe72c2d
+	0xe59028
+	0xe591e9
+	0xe43578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:30:50,429 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:30:50,583 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:30:50,584 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:31:06 CST)" executed successfully
+2025-12-04 19:31:06,987 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:31:36 CST)" (scheduled at 2025-12-04 19:31:06.975602-06:00)
+2025-12-04 19:31:06,988 - INFO - Iniciando ejecución automática...
+2025-12-04 19:31:07,190 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:31:08,645 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:31:08,793 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:31:08,794 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:31:36 CST)" executed successfully
+2025-12-04 19:31:36,985 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:32:06 CST)" (scheduled at 2025-12-04 19:31:36.975602-06:00)
+2025-12-04 19:31:36,986 - INFO - Iniciando ejecución automática...
+2025-12-04 19:31:39,914 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:31:46,752 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:64691
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd60d23
+	0xd60d64
+	0xb4e6dd
+	0xb8a958
+	0xb89992
+	0xb7fbe5
+	0xb7fa16
+	0xbc7826
+	0xbc7047
+	0xbbb2e6
+	0xb8d321
+	0xb8e1d4
+	0xfb4d64
+	0xfb031b
+	0xfccbfa
+	0xd7ac28
+	0xd82c2d
+	0xd69028
+	0xd691e9
+	0xd53578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:31:48,212 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:31:48,365 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:31:48,365 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:32:06 CST)" executed successfully
+2025-12-04 19:32:06,980 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:32:36 CST)" (scheduled at 2025-12-04 19:32:06.975602-06:00)
+2025-12-04 19:32:06,980 - INFO - Iniciando ejecución automática...
+2025-12-04 19:32:10,256 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:32:16,226 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:56384
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x11f0d23
+	0x11f0d64
+	0xfde6dd
+	0x101a958
+	0x1019992
+	0x100fbe5
+	0x100fa16
+	0x1057826
+	0x1057047
+	0x104b2e6
+	0x101d321
+	0x101e1d4
+	0x1444d64
+	0x144031b
+	0x145cbfa
+	0x120ac28
+	0x1212c2d
+	0x11f9028
+	0x11f91e9
+	0x11e3578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:32:17,654 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:32:17,802 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:32:17,802 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:32:36 CST)" executed successfully
+2025-12-04 19:32:36,991 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:33:06 CST)" (scheduled at 2025-12-04 19:32:36.975602-06:00)
+2025-12-04 19:32:36,991 - INFO - Iniciando ejecución automática...
+2025-12-04 19:32:37,189 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:32:38,577 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:32:38,739 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:32:38,740 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:33:06 CST)" executed successfully
+2025-12-04 19:33:06,978 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:33:36 CST)" (scheduled at 2025-12-04 19:33:06.975602-06:00)
+2025-12-04 19:33:06,978 - INFO - Iniciando ejecución automática...
+2025-12-04 19:33:07,168 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:33:08,654 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:33:08,932 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:33:08,932 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:33:36 CST)" executed successfully
+2025-12-04 19:33:36,983 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:34:06 CST)" (scheduled at 2025-12-04 19:33:36.975602-06:00)
+2025-12-04 19:33:36,983 - INFO - Iniciando ejecución automática...
+2025-12-04 19:33:40,903 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:33:46,860 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:52575
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x420d23
+	0x420d64
+	0x20e6dd
+	0x24a958
+	0x249992
+	0x23fbe5
+	0x23fa16
+	0x287826
+	0x287047
+	0x27b2e6
+	0x24d321
+	0x24e1d4
+	0x674d64
+	0x67031b
+	0x68cbfa
+	0x43ac28
+	0x442c2d
+	0x429028
+	0x4291e9
+	0x413578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:33:48,358 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:33:48,532 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:33:48,533 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:34:06 CST)" executed successfully
+2025-12-04 19:34:06,976 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:34:36 CST)" (scheduled at 2025-12-04 19:34:06.975602-06:00)
+2025-12-04 19:34:06,977 - INFO - Iniciando ejecución automática...
+2025-12-04 19:34:10,460 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:34:16,642 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:54743
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf30d23
+	0xf30d64
+	0xd1e6dd
+	0xd5a958
+	0xd59992
+	0xd4fbe5
+	0xd4fa16
+	0xd97826
+	0xd97047
+	0xd8b2e6
+	0xd5d321
+	0xd5e1d4
+	0x1184d64
+	0x118031b
+	0x119cbfa
+	0xf4ac28
+	0xf52c2d
+	0xf39028
+	0xf391e9
+	0xf23578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:34:18,183 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:34:18,497 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:34:18,504 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:34:36 CST)" executed successfully
+2025-12-04 19:34:36,989 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:35:06 CST)" (scheduled at 2025-12-04 19:34:36.975602-06:00)
+2025-12-04 19:34:36,989 - INFO - Iniciando ejecución automática...
+2025-12-04 19:34:37,186 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:34:38,429 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:34:38,565 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:34:38,565 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:35:06 CST)" executed successfully
+2025-12-04 19:35:06,980 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:35:36 CST)" (scheduled at 2025-12-04 19:35:06.975602-06:00)
+2025-12-04 19:35:06,980 - INFO - Iniciando ejecución automática...
+2025-12-04 19:35:13,894 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:35:20,136 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:55595
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa30d23
+	0xa30d64
+	0x81e6dd
+	0x85a958
+	0x859992
+	0x84fbe5
+	0x84fa16
+	0x897826
+	0x897047
+	0x88b2e6
+	0x85d321
+	0x85e1d4
+	0xc84d64
+	0xc8031b
+	0xc9cbfa
+	0xa4ac28
+	0xa52c2d
+	0xa39028
+	0xa391e9
+	0xa23578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:35:21,236 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:35:21,412 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:35:21,413 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:35:36 CST)" executed successfully
+2025-12-04 19:35:36,982 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:36:06 CST)" (scheduled at 2025-12-04 19:35:36.975602-06:00)
+2025-12-04 19:35:36,983 - INFO - Iniciando ejecución automática...
+2025-12-04 19:35:37,183 - ERROR - Error en scraper dinámico: <urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>
+2025-12-04 19:35:38,058 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:35:38,223 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:35:38,223 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:36:06 CST)" executed successfully
+2025-12-04 19:36:06,991 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:36:36 CST)" (scheduled at 2025-12-04 19:36:06.975602-06:00)
+2025-12-04 19:36:06,991 - INFO - Iniciando ejecución automática...
+2025-12-04 19:36:10,382 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:36:16,607 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:54293
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x810d23
+	0x810d64
+	0x5fe6dd
+	0x63a958
+	0x639992
+	0x62fbe5
+	0x62fa16
+	0x677826
+	0x677047
+	0x66b2e6
+	0x63d321
+	0x63e1d4
+	0xa64d64
+	0xa6031b
+	0xa7cbfa
+	0x82ac28
+	0x832c2d
+	0x819028
+	0x8191e9
+	0x803578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:36:17,613 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:36:17,807 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:36:17,807 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:36:36 CST)" executed successfully
+2025-12-04 19:36:36,990 - INFO - Running job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:37:06 CST)" (scheduled at 2025-12-04 19:36:36.975602-06:00)
+2025-12-04 19:36:36,991 - INFO - Iniciando ejecución automática...
+2025-12-04 19:36:40,017 - INFO - patching driver executable C:\Users\jchav\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-04 19:36:45,942 - ERROR - Error en scraper dinámico: Message: session not created: cannot connect to chrome at 127.0.0.1:57490
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.177
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xec0d23
+	0xec0d64
+	0xcae6dd
+	0xcea958
+	0xce9992
+	0xcdfbe5
+	0xcdfa16
+	0xd27826
+	0xd27047
+	0xd1b2e6
+	0xced321
+	0xcee1d4
+	0x1114d64
+	0x111031b
+	0x112cbfa
+	0xedac28
+	0xee2c2d
+	0xec9028
+	0xec91e9
+	0xeb3578
+	0x75b15d49
+	0x7717d6db
+	0x7717d661
+
+2025-12-04 19:36:46,860 - INFO - Scraper estático ejecutado correctamente.
+2025-12-04 19:36:46,990 - ERROR - Error generando JSON: name 'DATA_FOLDER' is not defined
+2025-12-04 19:36:46,990 - INFO - Job "tarea_scraper (trigger: interval[0:00:30], next run at: 2025-12-04 19:37:06 CST)" executed successfully
